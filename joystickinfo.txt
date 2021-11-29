@@ -1,0 +1,18 @@
+
+
+PIP Virtual Gamepad
+
+Axis 0 : Left cursor -1 (left), 0 none, 1 (right)
+Axis 1 : Left cursor -1 (up), 0 none, 1 (down)
+
+Button 0: 1 (B)
+Button 1: 1 (A)
+Button 2: 1 (Y)
+Button 3: 1 (X)
+Button 4: Volume down
+Button 5: Volume up
+Button 6: 1 (menu - left)
+Button 7: 1 (play - right)
+
+
+

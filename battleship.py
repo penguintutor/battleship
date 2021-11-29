@@ -4,6 +4,7 @@ from fleet import Fleet
 from grid import Grid
 from playerai import PlayerAi
 from playerhuman import PlayerHuman
+from controller import Controller
 
 # Default screen size - can be changed by config
 WIDTH = 1280
@@ -61,6 +62,8 @@ ship_list_text = [
     ("Destroyer (2)", (key_position[0], key_position[1]+360))
      ]
 
+joypad = Controller()
+print (joypad.get_controllers())
 
 
 def setup ():
